@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Tien</h1>
 <p>A passionate backend developer</p>
 
+---
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/></a>
@@ -25,6 +27,8 @@
   <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
 </p>
 
+---
+
 <h2>⚡️ Where to find me</h2>
 <p>
   <a href="https://x.com/Tiensensei" target="_blank"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter"/></a>
@@ -34,13 +38,26 @@
   <a href="https://www.youtube.com/@TiensenseiDM" target="_blank"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube"/></a>
 </p>
 
-<!-- GitHub Stats -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fedelya&show_icons=true&locale=en" alt="Fedelya's GitHub stats"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fedelya&" alt="Fedelya's GitHub streak"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedelya&show_icons=true&locale=en&layout=compact" alt="Fedelya's top languages"/></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fedelya" alt="GitHub Trophy"/></a></p>
+---
 
-<!-- Snake Game -->
+<h2>GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fedelya&show_icons=true&theme=radical" alt="stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fedelya&theme=radical" alt="streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedelya&layout=compact&theme=radical" alt="top langs"/>
+</div>
+
+---
+
+<h2>GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fedelya&theme=onedark&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+<h2>Snake Eating My Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fedelya/Fedelya/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fedelya/Fedelya/output/github-snake.svg" />
