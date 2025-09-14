@@ -43,10 +43,11 @@
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fedelya&show_icons=true&theme=radical" alt="stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fedelya&theme=radical" alt="streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedelya&layout=compact&theme=radical" alt="top langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fedelya&show_icons=true&theme=radical&cache_seconds=1800&v=1" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Fedelya&theme=radical&hide_border=false&v=1" alt="streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedelya&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&v=1" alt="top langs"/>
 </div>
+
 
 ---
 
